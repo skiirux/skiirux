@@ -1,4 +1,4 @@
-
+![logo](https://github.com/skiirux/skiirux/blob/master/Code%20Fly.png)
 <h1 align="center">Hi 👋, I'm Mohit Kumar</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
